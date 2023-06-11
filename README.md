@@ -1,2 +1,2 @@
-# Phyton
-Program Phyton by Nathan
+# Python
+Program Python by Nathan
